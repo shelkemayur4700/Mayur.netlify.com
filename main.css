@@ -1,0 +1,25 @@
+.site-header {
+    background-color: #6ddfb8;
+    color: #021d14;
+    height: 100vh;
+    font-family: monospace;
+}
+.site-header-content{
+    margin: 10px;
+    padding-left: 500px;
+    padding-top: 150px;
+}
+
+.profile-pic{
+    border-radius: 50%;
+    box-shadow: rgb(12, 94, 84) 2px 5px 2px;
+}
+
+body{
+    margin: 0;
+}
+
+.link{
+    color: #021d14;
+
+}
